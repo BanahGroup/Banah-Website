@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31787835/README.md)
 # Banāh Event — site + pages clients (Pilotage Partagé)
 
 Ce dépôt contient votre site (à ajouter) et le dossier `pilotage/`, qui contiendra une page
